@@ -1,7 +1,8 @@
 /* 
 *
 * Exercise 2:
-* Add the FriendStatus class from below to your project and rewrite it using Hooks
+* Copy the FriendStatus class from below to your project and rewrite it using Hooks.
+* Consider ChatAPI as a real API interacting with.
 *
 */
 

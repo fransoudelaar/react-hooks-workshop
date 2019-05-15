@@ -1,9 +1,29 @@
 /* 
 *
 * Exercise 3:
-* Add the Display component from below to your project and rewrite it using Hooks
+* Copy the NumberContext and Display component from below to your project and rewrite it using Hooks
 *
 */
+
+import React from 'react';
+
+// Create a Context
+const NumberContext = React.createContext();
+// It returns an object with 2 values:
+// { Provider, Consumer }
+
+// just for example
+function App() {
+  // Use the Provider to make a value available to all
+  // children and grandchildren
+  return (
+    <NumberContext.Provider value={42}>
+      <div>
+        <Display />
+      </div>
+    </NumberContext.Provider>
+  );
+}
 
 function Display() {
   // Use the Consumer to grab the value from context

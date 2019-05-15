@@ -1,11 +1,11 @@
 /* 
 *
 * Exercise 1:
-* Add the Click class from below to your project and rewrite it using Hooks
+* Copy the Counter class from below to your project and rewrite it using Hooks
 *
 */
 
-class Click extends React.Component {
+class Counter extends React.Component {
     constructor(props) {
       super(props);
       this.state = {
