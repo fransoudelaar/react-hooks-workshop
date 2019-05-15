@@ -1,9 +1,7 @@
 /* 
-*
 * Exercise 2:
 * Copy the FriendStatus class from below to your project and rewrite it using Hooks.
 * Consider ChatAPI as a real API interacting with.
-*
 */
 
 class FriendStatus extends React.Component {

@@ -1,10 +1,8 @@
 /* 
-*
 * Exercise 4:
 * Copy the Counter component from below to your project. 
 * For every re-render of the component, 2 new functions are created. In this example, 5 state changes result in 10 new functions.
 * Try to resolve the problem with Hooks.
-*
 */
 
 import React, { useState } from 'react';

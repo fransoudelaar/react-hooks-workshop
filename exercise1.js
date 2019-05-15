@@ -1,8 +1,6 @@
 /* 
-*
 * Exercise 1:
-* Copy the Counter class from below to your project and rewrite it using Hooks
-*
+* Copy the Counter class from below to your project and rewrite it using Hooks.
 */
 
 class Counter extends React.Component {

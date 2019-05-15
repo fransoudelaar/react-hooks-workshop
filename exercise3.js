@@ -1,8 +1,6 @@
 /* 
-*
 * Exercise 3:
-* Copy the NumberContext and Display component from below to your project and rewrite it using Hooks
-*
+* Copy the NumberContext and Display component from below to your project and rewrite it using Hooks.
 */
 
 import React from 'react';

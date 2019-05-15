@@ -1,4 +1,5 @@
 # React Hooks Workshop
+This repo contains the workshop material for React Hooks Workshop.
 
 ----
 ## Introducing hooks
@@ -17,7 +18,7 @@ see [React Hooks Reference](https://reactjs.org/docs/hooks-reference.html)
 
 ----
 ## Workshop
-This repo contains the workshop material for React Hooks Workshop. You will install the Starter kit and create some nice Hooks to get 'hooked' on React Hooks.
+Let's get started; install the Starter kit and get 'hooked' on React Hooks.
 
 1. Create a new folder and install the [React boilerplate](https://github.com/smashingpat/boilerplate).
 2. Start with the exercises from this repo.
