@@ -20,7 +20,7 @@ see [React Hooks Reference](https://reactjs.org/docs/hooks-reference.html)
 ## Workshop
 Let's get started; install the Starter kit and get 'hooked' on React Hooks.
 
-1. Create a new folder and install the [React boilerplate](https://github.com/smashingpat/boilerplate).
+1. Create a new folder and install the [Boilerplate Webapp](https://dev.azure.com/wearetriple/_git/Boilerplate-WebApp) or [React boilerplate](https://github.com/smashingpat/boilerplate).
 2. Start with the exercises from this repo.
 
 ----
